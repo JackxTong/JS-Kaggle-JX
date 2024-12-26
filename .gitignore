@@ -1,2 +1,4 @@
 js-venv/
 valid.parquet
+train.parquet
+__pycache__/
