@@ -8,3 +8,5 @@ lightgbm
 xgboost
 catboost
 pyarrow
+torch
+pytorch-lightning
