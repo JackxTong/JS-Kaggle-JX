@@ -10,3 +10,4 @@ catboost
 pyarrow
 torch
 pytorch-lightning
+wandb

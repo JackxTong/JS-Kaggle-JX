@@ -3,3 +3,5 @@ valid.parquet
 train.parquet
 __pycache__/
 train.csv
+*.pickle
+lightning_logs/
