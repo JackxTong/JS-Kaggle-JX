@@ -6,3 +6,4 @@ train.csv
 *.pickle
 *.pkl
 lightning_logs/
+venv/
