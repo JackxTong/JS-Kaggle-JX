@@ -8,3 +8,4 @@ train.csv
 lightning_logs/
 venv/
 3folds_nn_script_logs/
+*.parquet
