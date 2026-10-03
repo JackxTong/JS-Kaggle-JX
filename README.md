@@ -18,3 +18,12 @@ Need to have `train.parquet` (around 7Gb) and `valid.parquet` in root directory
 
 ## Inference with MLP (cannot run yet)
 `jx-inference-nn.ipynb`
+
+
+https://github.com/evgeniavolkova/kagglejanestreet
+
+https://www.kaggle.com/code/eivolkova/public-lb-6th?scriptVersionId=217330222
+
+https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/writeups/evgeniia-grigoreva-private-lb-8th-solution
+
+https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/writeups/private-58th-tabm-autoencodermlp-with-online-train
